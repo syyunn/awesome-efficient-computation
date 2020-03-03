@@ -8,4 +8,5 @@ The Reversible Residual Network: Backpropagation Without Storing Activations
 ### Via Approximation
 Reformer : REFORMER: THE EFFICIENT TRANSFORMER
 > Approximate attention computation based on locality-sensitive hashing 
+
 > Since reformer recalculate its tensor when it's required for backpropagation, we might need different framework from conventioinals - such as pytorch or tf.
