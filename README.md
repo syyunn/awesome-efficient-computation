@@ -7,3 +7,4 @@ The Reversible Residual Network: Backpropagation Without Storing Activations
 
 ### Via Approximation
 Reformer : REFORMER: THE EFFICIENT TRANSFORMER
+> Approximate attention computation based on locality-sensitive hashing 
